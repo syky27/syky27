@@ -7,7 +7,7 @@
   - Always some mobile apps most likely in [flutter](https://github.com/flutter)
 - ❤️ I’m in love with CleanArchitecture
 - 👯 I’m looking to collaborate on anything cool
-- 💬 Ask me about Flutter, CleanArchitecture, Swift, iOS Dev.
+- 💬 Ask me about Flutter, CleanArchitecture, Swift, iOS Dev, Server Side Swift!
 - 📫 How to reach me: jump@syky.cz
 - 🍕 [DroneTag Canteen FTW](https://github.com/dronetag)
 - 🏍 Always Wheeeelie!
