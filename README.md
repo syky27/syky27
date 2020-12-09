@@ -9,5 +9,6 @@
 - 👯 I’m looking to collaborate on anything cool
 - 💬 Ask me about Flutter, CleanArchitecture, Swift, iOS Dev.
 - 📫 How to reach me: jump@syky.cz
+- 🍕 [DroneTag Canteen FTW](https://github.com/dronetag)
 - 🏍 Always Wheeeelie!
 
